@@ -55,8 +55,8 @@ For those who failed to get on Jeapardy
 
 ## Contributing
 - [Tristan Melillo](https://github.com/TristanM225)
-- [Jed Smith](https://github.com/)
-- [Gene Suhir](https://github.com/)
+- [Jed Smith](https://github.com/solosolaire)
+- [Gene Suhir](https://github.com/GSuhir)
 - [Tod Winchester](https://github.com/Chesster14)
 
 ## Scores
