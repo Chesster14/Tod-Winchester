@@ -3,13 +3,8 @@ Repo For Practice
 
 # Quizify
 
-
 [![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)](https://opensource.org/licenses/MIT)
 
-
-## Collaborators
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=)
 
 
 ## Technologies Used
@@ -21,8 +16,9 @@ Repo For Practice
 - [Information](#information)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Tests](#tests)
+- [Contributing](#contributing)
+- [Scores](scores)
 - [Questions](#questions)
 - [License](#license)
 
@@ -31,8 +27,11 @@ Repo For Practice
 ## Installation
 
 ## Usage
+For those who failed to get on Jeapardy
 
-## Highest Scores
+## Tests
+
+## Scores
 
 ## Contributing
 - [Tristan Melillo](https://github.com/TristanM225)
@@ -44,6 +43,9 @@ Repo For Practice
 ## High Scores
 
 ## Questions
+
+![Google](https://custom-icon-badges.demolab.com/badge/Google-grey?logo=google&logoColor=red)(https://www.google.com/)
+
 
 ## License
 This application is covered under the MIT Licence
