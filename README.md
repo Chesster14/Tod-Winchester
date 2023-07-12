@@ -3,13 +3,13 @@ Repo For Practice
 
 # Quizify
 
-[![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)](https://opensource.org/licenses/MIT)
-
-
+## General Information
 
 ## Technologies Used
 
-## General Information
+## Link
+
+## Screenshot
 
 ## Table of Contents:
 
@@ -30,8 +30,9 @@ Repo For Practice
 For those who failed to get on Jeapardy
 
 ## Tests
-
-## Scores
+Easy
+Medium
+Hard
 
 ## Contributing
 - [Tristan Melillo](https://github.com/TristanM225)
@@ -39,8 +40,8 @@ For those who failed to get on Jeapardy
 - [Gene Suhir](https://github.com/)
 - [Tod Winchester](https://github.com/Chesster14)
 
-
-## High Scores
+## Scores
+High Scores
 
 ## Questions
 
@@ -48,4 +49,5 @@ For those who failed to get on Jeapardy
 
 
 ## License
+[![License: MIT](https://custom-icon-badges.demolab.com/badge/license-MIT-yellowgreen.svg?logo=law)](https://opensource.org/licenses/MIT)
 This application is covered under the MIT Licence
