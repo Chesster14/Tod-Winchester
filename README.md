@@ -7,15 +7,15 @@ Repo For Practice
 
 ## Technologies Used
 
-Node.js
-Express.js
-RESTful API.
-Handlebars.js
-MySQL2 and the Sequelize ORM for the database.
-GET route
-POST route
-(GET and POST routes for retrieving and adding new data.)
-(Use at least one new library, package, or technology that we haven’t discussed.)
+- Node.js
+- Express.js
+- RESTful API.
+- Handlebars.js
+- MySQL2 and the Sequelize ORM for the database.
+- GET route
+- POST route
+- (GET and POST routes for retrieving and adding new data.)
+- (Use at least one new library, package, or technology that we haven’t discussed.)
 
 ## Link
 
